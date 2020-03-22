@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theshuopof.suencryption.tk/sitemap.xml
